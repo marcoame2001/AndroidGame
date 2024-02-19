@@ -23,7 +23,7 @@ Here are the steps to run the project:
 
 1. Install Git and LibGDX.
 2. Clone the project: 
-
+Original repository:
 'git clone https://github.com/astorvold/Lecturer_Fight.git'
 
 3. use your favorite IDE with an android simulator included or compile and copy the game in your android device. 
